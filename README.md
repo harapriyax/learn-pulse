@@ -248,6 +248,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-**Shubhranshu Behera**
+**Harapriya**
 
 Built with ❤️ using the MERN Stack
